@@ -13,8 +13,8 @@
 
 ---
 
-Soy Desarrollador Backend con más de 3 años de experiencia en el diseño e implementación de APIs escalables y microservicios utilizando Node.js, TypeScript y Serverless Framework. Con conocimientos en AWS (EC2, S3, Lambda, SQS, SNS, DynamoDB, etc.). 
-Apasionado por la optimización del rendimiento, buenas prácticas de desarrollo y seguridad. Comprometido con la mejora continua y la entrega de software de alta calidad.
+Backend Engineer con +4 años de experiencia en Node.js y TypeScript, especializado en microservicios, APIs escalables y arquitecturas cloud en AWS, Azure y GCP. Experiencia liderando desarrollo backend desde cero y desplegando sistemas en producción con CI/CD y alta disponibilidad.
+Me caracterizo por mi capacidad de aprendizaje rápido, adaptación a nuevos entornos tecnológicos y trabajo bajo metodologías ágiles, aportando tanto en la construcción de soluciones como en la mejora continua de los sistemas.
 
 ## 🛠 &nbsp;Mis habilidades
 
